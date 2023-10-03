@@ -1,5 +1,4 @@
 [
-  "products": [
     {
       "id": 1,
       "title": "iPhone 9",
@@ -523,4 +522,4 @@
       ],
       "inCart": false
     }
-  ]
+]
